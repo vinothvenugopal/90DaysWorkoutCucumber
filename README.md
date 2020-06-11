@@ -3,6 +3,7 @@ Cucumber portion of the 90 days code workout will be pushed to this repository a
 src/main/java/cucumber/runner - has the runner file for the test case
 src/main/java/cucumber/testcases - has the test case (step def)
 src/test/java/featurefiles -  has the feature files
+/screenshots - contains the screenshots for all the test cases
 
 For the ease of understanding, each test case will be written a separate feature file and while execution, 
 the other feature files will be commented
